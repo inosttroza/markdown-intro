@@ -57,8 +57,8 @@ ___
 
 
 <!-- IMAGES -->
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShPJifyPPy0AtYVCT3p6Nz0Aa8edbORhtFeX8-iPK9gZv6zxPZlsXZu1AbLY4hEbkFoM&usqp=CAU) 
-
+[<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"/>](https://www.linkedin.com/in/pablo-inostroza-858a0212b/)
+</br>
 
 ```
 primera linea
